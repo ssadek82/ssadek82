@@ -3,7 +3,8 @@ Technicien Supérieur Systèmes et Réseaux (en reconversion)
 
 ## **Formation**  
 - **Formation Technicien Supérieur Systèmes et Réseaux (TSSR)** *(2025 - en cours)*  
-  -Formation en présentiel a wild school 
+  -Formation en présentiel wild code school
+  
   -Transition Pro Île-de-France  
 - **Bac pro electrotechnique**
 - **Cap/Bep electrotechnique** 
